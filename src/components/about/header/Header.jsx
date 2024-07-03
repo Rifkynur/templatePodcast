@@ -2,6 +2,7 @@ import React from "react";
 import HeroHeader from "../../util/HeroHeader";
 import Button from "../../util/Button";
 import { WhiteButton } from "../../util/Button";
+import Spring from "../.../../../../assets/vector/Spring.svg";
 
 const Header = () => {
   return (
@@ -11,6 +12,7 @@ const Header = () => {
         <WhiteButton name="BECOME SPONSOR" />
         <Button name="subscribe" />
       </div>
+      <img src={Spring} alt="illustration" className="hidden absolute md:block md:w-[80px] md:bottom-[-20px] lg:right-[-40px] lg:bottom-[-20px] " />
     </div>
   );
 };

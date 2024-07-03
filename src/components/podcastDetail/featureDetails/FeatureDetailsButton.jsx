@@ -7,7 +7,7 @@ const FeatureDetailsButton = () => {
       <button className="bg-black uppercase font-bold text-white rounded-md border-black border px-2 py-1 shadow-btnShadowSmall md:shadow-btnShadowBig md:px-6 md:py-4 hover:bg-white hover:text-black duration-300 lg:px-12 lg:py-6">
         Subscribe
       </button>
-      <button className="bg-white flex items-center gap-1 uppercase font-bold text-black rounded-md border-black border px-2 py-1 shadow-btnShadowSmall md:shadow-btnShadowBig md:px-6 md:py-4 hover:bg-black hover:text-white duration-300 lg:px-12 lg:py-6">
+      <button className="bg-white flex items-center gap-1 uppercase font-bold text-black rounded-md border-black border-2 px-2 py-1 shadow-btnShadowSmall md:shadow-btnShadowBig md:px-6 md:py-4 hover:bg-black hover:text-white duration-300 lg:px-6 lg:py-6 lg:gap-5">
         <FaPlay /> LISTEN NOW <span className="text-accentRed">(46 min)</span>
       </button>
     </div>

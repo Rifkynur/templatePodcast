@@ -10,7 +10,7 @@ const ScrollToTopButton = () => {
     });
   };
   return (
-    <div onClick={toTop} className="bg-primary cursor-pointer border-2 border-black rounded-full p-3 fixed bottom-8 right-3 lg:right-6">
+    <div onClick={toTop} className="bg-primary z-[2] cursor-pointer border-2 border-black rounded-full p-3 fixed bottom-8 right-3 lg:right-6">
       <FaArrowUp />
     </div>
   );

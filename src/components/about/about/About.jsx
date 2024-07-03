@@ -9,6 +9,7 @@ const About = () => {
   return (
     <div className="relative sectionContent">
       <ViewsContainer />
+
       <HeaderContent title={"What our listeners say"} desc={"Their experience throughout every platform"} />
       <AboutImg />
       <AboutAndHistory />

@@ -9,7 +9,7 @@ import Contact from "../components/about/contact/Contact";
 
 const AboutPage = () => {
   useEffect(() => {
-    document.title = "About | Podc of Cast";
+    document.title = "About | Pod of Cast";
   }, []);
   return (
     <section>

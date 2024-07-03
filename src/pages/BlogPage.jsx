@@ -7,7 +7,7 @@ import AllEpisodes from "../components/blog/allEpisodes/AllEpisodes";
 
 const BlogPage = () => {
   useEffect(() => {
-    document.title = "Blog Details | Podc of Cast";
+    document.title = "Blog Details | Pod of Cast";
   }, []);
   return (
     <section>

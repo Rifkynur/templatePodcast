@@ -9,7 +9,7 @@ import RelatedArticle from "../components/blogDetails/relatedArticle/RelatedArti
 
 const BlogDetails = () => {
   useEffect(() => {
-    document.title = "Blog Details | Podc of Cast";
+    document.title = "Blog Details | Pod of Cast";
   }, []);
   return (
     <section>

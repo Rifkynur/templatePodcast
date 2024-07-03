@@ -12,7 +12,7 @@ import Footer from "../components/footer/Footer";
 
 const LandingPage = () => {
   useEffect(() => {
-    document.title = "Home | Podc of Cast";
+    document.title = "Home | Pod of Cast";
   }, []);
   return (
     <section>

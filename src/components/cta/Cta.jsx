@@ -1,8 +1,8 @@
 import React from "react";
 import CtaHeader from "./CtaHeader";
 import CtaContent from "./CtaContent";
-import CtaBg1 from "../../assets/img/ctaBg1.png";
-import CtaBg2 from "../../assets/img/ctaBg2.png";
+import CtaBg1 from "../../assets/img/ctaBg1.webp";
+import CtaBg2 from "../../assets/img/ctaBg2.webp";
 
 const Cta = () => {
   return (

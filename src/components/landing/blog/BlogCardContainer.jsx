@@ -1,7 +1,7 @@
 import React from "react";
 import BlogCard from "./BlogCard";
-import Blog1 from "../../../assets/img/blog1.png";
-import Blog2 from "../../../assets/img/blog2.png";
+import Blog1 from "../../../assets/img/blog1.webp";
+import Blog2 from "../../../assets/img/blog2.webp";
 import Crown2 from "../../../assets/vector/Crown2.svg";
 import Star2 from "../../../assets/vector/Star2.svg";
 

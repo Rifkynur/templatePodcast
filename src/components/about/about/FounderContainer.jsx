@@ -1,7 +1,7 @@
 import React from "react";
 import FounderCard from "./FounderCard";
-import Avatar from "../../../assets/img/about/avatar.png";
-import Avatar1 from "../../../assets/img/about/avatar1.png";
+import Avatar from "../../../assets/img/about/avatar.webp";
+import Avatar1 from "../../../assets/img/about/avatar1.webp";
 import AboutFace from "../../../assets/vector/AboutFace.svg";
 import AboutStar from "../../../assets/vector/AboutStar.svg";
 

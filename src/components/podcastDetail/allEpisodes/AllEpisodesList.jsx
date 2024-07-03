@@ -1,12 +1,12 @@
 import React from "react";
 import ContentCard from "../../landing/content/ContentCard";
 
-import cover1 from "../../../assets/img/cover1.png";
-import cover2 from "../../../assets/img/cover2.png";
-import cover3 from "../../../assets/img/cover3.png";
-import cover4 from "../../../assets/img/cover4.png";
-import cover5 from "../../../assets/img/cover5.png";
-import cover6 from "../../../assets/img/cover6.png";
+import cover1 from "../../../assets/img/cover1.webp";
+import cover2 from "../../../assets/img/cover2.webp";
+import cover3 from "../../../assets/img/cover3.webp";
+import cover4 from "../../../assets/img/cover4.webp";
+import cover5 from "../../../assets/img/cover5.webp";
+import cover6 from "../../../assets/img/cover6.webp";
 import Crown4 from "../../../assets/vector/Crown4.svg";
 
 const AllEpisodesList = () => {

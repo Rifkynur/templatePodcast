@@ -1,6 +1,6 @@
 import React from "react";
-import Doodle from "../../../assets/img/blogDetails/Doodle.png";
-import Doodle2 from "../../../assets/img/blogDetails/Doodle2.png";
+import Doodle from "../../../assets/img/blogDetails/Doodle.webp";
+import Doodle2 from "../../../assets/img/blogDetails/Doodle2.webp";
 
 const BlogImg = () => {
   return (

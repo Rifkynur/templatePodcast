@@ -1,5 +1,5 @@
 import React from "react";
-import Cover from "../../../assets/img/cover1.png";
+import Cover from "../../../assets/img/cover1.webp";
 
 const FeatureDetailsImg = () => {
   return (

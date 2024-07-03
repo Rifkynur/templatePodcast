@@ -1,10 +1,10 @@
 import React from "react";
 import AllEpisdodesCard from "./AllEpisdodesCard";
 
-import Blog1 from "../../../assets/img/blog/blog1.png";
-import Blog2 from "../../../assets/img/blog/blog2.png";
-import Blog3 from "../../../assets/img/blog/blog3.png";
-import Blog4 from "../../../assets/img/blog/blog4.png";
+import Blog1 from "../../../assets/img/blog/blog1.webp";
+import Blog2 from "../../../assets/img/blog/blog2.webp";
+import Blog3 from "../../../assets/img/blog/blog3.webp";
+import Blog4 from "../../../assets/img/blog/blog4.webp";
 
 const tag1 = ["bussines", "podcast", "startup"];
 const tag2 = ["arts", "tips and trick", "creative"];

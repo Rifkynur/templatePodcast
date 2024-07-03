@@ -46,7 +46,10 @@ const Navigation = () => {
       <div onClick={() => setNavbarIsOpen(!navbarIsOpen)} ref={menuRef} className="md:hidden">
         <IoMdMenu size={24} />
       </div>
-      <div ref={navbarRef} className={`absolute top-0 bg-primary p-8 h-screen shadow-lg transition-all duration-300 ${navbarIsOpen ? "right-0" : "right-[-100%]"} md:static md:h-full md:shadow-none md:flex md:items-center md:gap-52`}>
+      <div
+        ref={navbarRef}
+        className={`absolute top-0 bg-primary p-8 h-screen shadow-lg transition-all duration-300 ${navbarIsOpen ? "right-0 block" : "right-[-100%] hidden"} md:static md:h-full md:shadow-none md:flex md:items-center md:gap-52`}
+      >
         <div className="flex justify-between ">
           <ul className="font-bold flex flex-col gap-4 md:flex-row md:gap-8 lg:gap-10">
             <li className="cursor-pointer">

@@ -8,6 +8,7 @@ html {
   font-family: "Montserrat Alternates", sans-serif;
   overflow-x: hidden;
   box-sizing: border-box;
+  width: 100%;
 }
 .sectionContent {
   @apply py-20 md:py-28 lg:py-36 relative;
